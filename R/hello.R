@@ -17,7 +17,7 @@ hello <- function() {
   print("Hello, world!")
 }
 
-hello <- function() {
+MGT6203<- function() {
   print("Happy Thanksgiving! Good luck on your final exam—you've got this!")
 }
 
