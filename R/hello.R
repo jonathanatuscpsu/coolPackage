@@ -13,9 +13,9 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
-hello <- function() {
-  print("Hello, world!")
-}
+# hello <- function() {
+#   print("Hello, world!")
+# }
 
 MGT6203<- function() {
   print("Happy Thanksgiving! Good luck on your final exam—you've got this!")
