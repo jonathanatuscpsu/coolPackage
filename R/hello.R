@@ -1,7 +1,7 @@
 # Hello, world!
 #
 # This is an example function named 'hello' 
-# which prints 'Hello, world!'.
+# which prints 'Happy Thanksgiving! Good luck on your final exam—you've got this!'.
 #
 # You can learn more about package authoring with RStudio at:
 #
